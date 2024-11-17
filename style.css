@@ -118,3 +118,8 @@ button:hover {
 .botao {
     margin-bottom: 5rem;
 }
+
+button a {
+    text-decoration: none;
+    color: white;
+}
