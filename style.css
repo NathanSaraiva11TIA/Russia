@@ -34,7 +34,7 @@ header {
 header h1 {
     font-size: 6.5rem;
     font-weight: bold;
-    margin-top: 5px;
+    margin-top: 0,3125rem;
     color: white; 
     text-align: left;
     margin-right: 80.9rem;
@@ -75,7 +75,7 @@ header ul li a:hover {
 
 .paises {
     text-align: center;
-    width: 300px;
+    width: 18,75rem;
     background-color: white;
 }
 
@@ -104,7 +104,7 @@ button {
     border: none;
     padding: 0.625rem 1.25rem;
     font-size: 1rem;
-    border-radius: 50px;
+    border-radius: 3,125;
     cursor: pointer;
     font-family: 'Open Sans', sans-serif;
     font-weight: 1000;
